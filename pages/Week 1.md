@@ -1,3 +1,2 @@
-- [[McDermott Acquisition of a Child]]
 -
 -
