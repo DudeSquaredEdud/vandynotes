@@ -1,0 +1,46 @@
+- [[McDermott Acquisition of a Child Text]]
+- # Understanding Practice - Perspectives on Activity and Context - Chapter 10
+- Hooks
+	- Intro
+		- A bunch of 8 and 9 year olds
+		- locate children thinking aloud to identify
+			- "Naturally occurring examples of some mental activities that seemed so well defined in experimental settings"
+			- This is very vague, probably on purpouse
+		- Our suspicion, and ultimately our conclusion, what that little such fit could be expected to the extent that psychology relied theoretically and methodologically on predefined tasks to prove the minds of individual persons.
+		- There was Adam, who was officially described Learning Disabled child, but who seemed always eager to try.
+	- The argument
+		- intro
+			- LD is considered to be acquired by children due to some lapse in development. By the normal line of reasoning, the child is the unit of analysis and the disability is a mishap that scars a child's road to competence.
+			- We suggest an alternative way of thinking - LD is a category in our culture, and it acquires a certan proportion of our children as long as it is given life
+			- Folk theory denotes the traits to the child, this theory denotes the child as a victim of a label
+			- In the US, the general public considers learning rates to be more important than learning itself. This focus is the primary reason LD continues.
+				- In other cultures (or if you're rich) it's usually not considered a problem because you can slow down.
+			- Adam
+				- in following Adam for 18 months, we gave up on diagnosing off his traits and instead focused on what happened around him daily that seemed to organize his moments as an LD person.
+				- people would diagnose him as unattentive based on his looking away
+				- =="The world was precisely organized for making his disability apparent, that he was the negative achievement of a school system that insisted that everyone do better than everyone else."==
+		- Context
+			- The focus is on the world around the children being labeled
+			- The context in which these students act is not a simple bucket where the students are within it and are judged, but it is where they are all connected.
+			- Rope metaphor:
+				- Many fibers in a thread - twisting these fibers makes the thread continuous, and the thread itself has no fibers in it. By breaking the thread, you can find the fibers again. This is the descriptive model
+			- Adam is a set of fibers, alongside his friends that make up how he experiences LD, and his teachers that chastise him for his LD - the context is that Adam is part of those around him, his thread.
+			- He skirts around the system but does not benefit from it, as is intended.
+			- "A fiber cannot make a rope" -> but the existance of a rope makes the threads disappear as a measurement => we forget the individual when we implement the label.
+			- "People mutually constitute contexts for eachother by erasing themselves" => This is uniformity, that allows for an assumption and knowledge of what two people are doing together.
+			- "twisted cord illusion" => It is a spiral against a specific background, otherwise it is a set of concentric circles. -> the background overwhealms (overrides) the foreground
+			- People very much become invisible in organization. They are simply part of a whole unless you take the time to pick their fiber.
+			-
+			- Result:
+				- Context is a system in which a person is in. In this case, a person in context cannot exist alone - they are part of a system of people. A "thread" that is spun of all the people in a certain participation. It is in this thread that we forget the individual, and unless drastic insight is gained, we will only ever see this fiber as part of a thread that we are free to label and assume and judge ignorantly as part of our understandings of what a system should be like.
+				- To ensure a shared context between people, there is a part of us we must ignore. In school, much of what we are is ignored in favor of participating in the system.
+			-
+		- Learning
+			- We assume learning to be a ritualistic experience in which the teacher teaches and the learner learns - but in cases where the untold lessons are assumed to already be present, where does this learning take place?
+			-
+	- The continuum of difficulty and deficit
+	- The continuum of arbitrairy demands and left-out participants
+	- A continuum of degradation and labeled children
+		- Context
+		- Learning
+		- Language and culture
