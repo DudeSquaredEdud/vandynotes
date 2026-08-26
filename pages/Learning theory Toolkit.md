@@ -2,7 +2,7 @@
 	- This is a living document, used to help you remember useful methods for when you encounter a new theory or perspective.
 	- It helps you break down perspectives into their functions as lenses, and also can be used to compare against others.
 - ## Theories
-	- ### McDermott [[McDermott Acquisition of a Child]]
+	- ### Week 1: McDermott [[McDermott Acquisition of a Child]]
 	  id:: 6a8db632-a7be-491e-8b95-318a2495170a
 		- What does this allow me to see?
 			- Disability and dysfunction as a result of a system upon a student as opposed to a student's fit within a system.
@@ -40,6 +40,8 @@
 			  It shows that his trouble in class and his trouble on the tests is not the same function, his approach to both
 		- *What is McDermott's theory?*
 		  *If you had to state his central claim about what learning disabilities are and where they come from in 2–3 sentences, what would you say? How is this different from what you might call the "common sense" or "folk" theory of learning disabilities?*
-			-
+			- McDermott puts disability as a function of the setting rather than the person. It is within a certain setting which they are called out and socially considered dysfunctional; the person is not innately broken.
+				- On this - Issac Asimov's "Stranger in Paradise" - they create a robot designed for mercury. Initial tests on earth are clumsy, but once it's deployed on mercury the robot thrives in the new situation. The robot was only clumsy on Earth because it did not belong on Earth.
 		- *Think about your own experience — as a student, teacher, parent, or designer of learning environments. Can you identify amoment where a person's "ability" or "disability" seemed to shift depending on the context or the people around them? How does McDermott's framework help you re-interpret that moment?*
-			-
+			- I have many friends with ADHD who struggle to stay on task when alone. When together with friends that are working, they find it incredibly easy to learn. This works even in groups of only ADHD people.
+			  Assuming within McDermott's framework, the students have an immediate, safe, social value to studying that would not exist alone; "My friends are studying too!". Their friends become the other fibers within this thread.

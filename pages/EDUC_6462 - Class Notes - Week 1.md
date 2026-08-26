@@ -1,0 +1,24 @@
+- We are the Guinea Pig semester
+- Dr. Heather Johnson
+- Be present in classes
+	- Engage in the conversation around a class
+	- Keep your goals in mind
+	- YOU CAN TWEAK THE ASSIGNMENTS TO MAKE THEM MORE VALUABLE TO YOU
+	- Enjoy your time here
+- ---
+- ## Theories are how we Read and Write the World
+- Read - How you see the world through a theory
+	- I am looking through the world through X persepective
+- Write - How you are affected by your vision of the world
+	- I engage with the world through X perspective
+-
+- (look into north nashville)
+-
+- ---
+-
+- Assignment - Video explanation that describes the model and what it represents
+	- Use pictures
+	- Include a description (2-3 paragraphs)
+		- Justify as to why such is as such
+	- Details on BrightSpace
+- Learning logs
