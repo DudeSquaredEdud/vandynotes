@@ -1,6 +1,7 @@
 - [[McDermott Acquisition of a Child Text]]
 - # Understanding Practice - Perspectives on Activity and Context - Chapter 10
 - Hooks
+  collapsed:: true
 	- Intro
 		- A bunch of 8 and 9 year olds
 		- locate children thinking aloud to identify

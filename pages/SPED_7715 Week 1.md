@@ -1,0 +1,123 @@
+- Analog analytics, cool!
+-
+- R notebooks :D
+-
+- nontraditional acacemic papers
+- nontraditional everywhere
+-
+-
+- oh fuck i need to read shit
+-
+- LAMT: Chapter 1
+  LRP: Chapters 1, 2, 3
+  R4DS: Chapter 4
+-
+- ---
+-
+- SOLAR does R stuff
+- LAK 2011:
+-
+- 1 - concern
+- 2 - opportunity
+- 3 - field of inquiry
+- 4 - a community
+-
+- ## concern
+- Data overload -> too much data to comprehend
+- shifting challenges -> tech infra issues managable, adaptive changes hard
+- expanded scope -> more scopes is ethical concern
+-
+- LMSes got bajillion data
+-
+- now we collect a horrifying amount of data.
+-
+- algorithm prediction stuff things
+-
+-
+- ## opportunity
+- how do we make learning better using this data stuff
+- academic analytics
+	- Inspired by business analytics
+- LMS stuff keeps growing and stuff
+-
+- ## field of inqiury
+- we want humans in the loop
+- automation is cool and all but if it sucks bootyhole then we should probably die
+- methodological agnosticism
+	- use any method you can
+- Actionable timeline
+	- fast fail - failure is good! fail a bunch so you can succeed eventually
+-
+- ## community
+- AI-Ed - AI in education
+	- Used to be niche.
+	- now gpt is here
+- EDM - educational data mining
+- LA - learning analytics
+-
+- ---
+-
+- Decision points
+	- what data is collected
+	- what is it used for
+	- What methods can i use
+	- How do I interpret my findings
+-
+- ---
+-
+- Modeling woooooo!
+	- describe a system and relations of data
+		- predictions
+		- differences
+		- visualizations
+		- patterns
+- We develop models so we can make repeatable things happen.
+	- So people in the future can do stuff with it and science can be advanced
+	- we also want our stuff to be generalizable
+- ---
+-
+- ## model types
+- descriptive
+	- yeah the data looks like X
+- inferential
+	- Yeah we can answer a question with this, or explore a hypothesis with this
+- predictive
+	- We can predict stuff with this
+-
+- Inferential vs predictive
+	- inferential is stuff we can see in the dataset that makes sense and answer stuff
+	- predictive is how accurate we can predict some stuff
+-
+- ---
+-
+- ## Thinking like a data scientist
+- use formal language
+- assemble components into systems (use R)
+- observe behavior of complex systems, hypothesize about them, test predictions
+-
+- R is coding for stats
+	- Apparently it's more humane and stuff.
+-
+- Tidyverse
+	- a response to how freakin abstract other coding languages are
+	- small learning curve
+	- collection of packages
+	- pipe operator is just like () => {} but it's % > %
+	- import -> tidy -> [*1] -> transform -> visualize -> model -> [1*]
+	- Data frames
+		- it's a 2d array
+		- it's a CSV actually
+		- it's not a matrix because the values are of different types
+		- we use tidy data frames for funzies
+			- or more because it gives columns names and ensures we don't make tables that suck butt
+	- Vector
+		- is a 1d array
+	- a matrix is a bunch of 1d arrays OF THE SAME SIZE
+	- an array is anything that is more than that
+-
+- ---
+-
+- We use colab stuff
+	- not a lot of preinstalled stuff
+	- oh no we have to import stuff
+	-

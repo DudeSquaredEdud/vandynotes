@@ -1,0 +1,10 @@
+- There is a shape that a learner's brain can be described with. Each one is unique, and within an environment, that shape might fit very well.
+- This is, of course, not always the case, and very few are lucky enough to get the best experience available to them.
+- The student that wishes to learn in a place where they don't fit may only learn to adapt themselves to that situation.
+	- The things that get in the way of learning become part of their structure of learning, and later on their idea of learning gets more conflated and complex than it should need to be.
+- However, this doesn't stop there from being better fits for students.
+	- A new perspective in a new environment can lead to a much less bogged down learning perspective.
+- But on average, this is hard to achieve.
+	- Getting a student into a private school, or starting homeschooling, these are not trivial, and are often impossible situations for families.
+- My main belief is an intervention in what environments are already available and creating tools that change these environments is the best way towards learning equity.
+- My biggest question in all of this is what is needed to do this? What tools do we need to help learners, and how can we make them good enough to make a real change in students lives?
