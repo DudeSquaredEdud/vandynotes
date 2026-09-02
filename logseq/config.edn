@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Class Stuff" "EDUC_6462"]
+ :favorites ["SPED_7715" "Class Stuff" "EDUC_6462"]
 
  ;; Set flashcards interval.
  ;; Expected value:
